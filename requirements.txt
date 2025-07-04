@@ -1,0 +1,6 @@
+unstructured[all-docs]
+sentence-transformers
+pytesseract
+ipywidgets
+pillow
+huggingface_hub[hf_xet]
