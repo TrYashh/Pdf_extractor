@@ -13,6 +13,6 @@ A powerful tool to extract structured tables and clean text from PDFs using `uns
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/Pdf_extractor.git
+git clone https://github.com/TrYashh/Pdf_extractor.git
 cd Pdf_extractor
 pip install -r requirements.txt
